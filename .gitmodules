@@ -13,3 +13,6 @@
 [submodule "starboarder2001.ansible-docgen"]
 	path = starboarder2001.ansible-docgen
 	url = https://github.com/starboarder2001/ansible-docgen.git
+[submodule "n0ts.ansible-human_log"]
+	path = n0ts.ansible-human_log
+	url = https://github.com/n0ts/ansible-human_log.git
