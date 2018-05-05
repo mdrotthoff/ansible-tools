@@ -61,3 +61,6 @@
 [submodule "mrjk.ansible-skel"]
 	path = mrjk.ansible-skel
 	url = https://github.com/mrjk/ansible-skel.git
+[submodule "jdauphant.awesome-ansible"]
+	path = jdauphant.awesome-ansible
+	url = https://github.com/jdauphant/awesome-ansible.git
