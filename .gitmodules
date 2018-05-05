@@ -19,3 +19,6 @@
 [submodule "iceburg-net.ansible-pcd"]
 	path = iceburg-net.ansible-pcd
 	url = https://github.com/iceburg-net/ansible-pcd.git
+[submodule "willthames.ansible-review"]
+	path = willthames.ansible-review
+	url = https://github.com/willthames/ansible-review.git
