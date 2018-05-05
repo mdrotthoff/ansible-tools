@@ -25,3 +25,6 @@
 [submodule "mirskytech.ansible-role-manager"]
 	path = mirskytech.ansible-role-manager
 	url = https://github.com/mirskytech/ansible-role-manager.git
+[submodule "ansible-semaphore.semaphore"]
+	path = ansible-semaphore.semaphore
+	url = https://github.com/ansible-semaphore/semaphore.git
