@@ -55,3 +55,6 @@
 [submodule "openstack.ara"]
 	path = openstack.ara
 	url = git@github.com:mdrotthoff/openstack.ara.git
+[submodule "jlaska.pytest-ansible"]
+	path = jlaska.pytest-ansible
+	url = https://github.com/jlaska/pytest-ansible.git
