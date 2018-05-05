@@ -7,3 +7,6 @@
 [submodule "volanja.ansible_spec"]
 	path = volanja.ansible_spec
 	url = https://github.com/volanja/ansible_spec.git
+[submodule "bbrfkr.ansible-art"]
+	path = bbrfkr.ansible-art
+	url = https://github.com/bbrfkr/ansible-art.git
