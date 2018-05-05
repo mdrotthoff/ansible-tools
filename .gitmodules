@@ -31,3 +31,6 @@
 [submodule "nylas/ansible-test"]
 	path = nylas/ansible-test
 	url = https://github.com/nylas/ansible-test.git
+[submodule "larsks.ansible-toolbox"]
+	path = larsks.ansible-toolbox
+	url = https://github.com/larsks/ansible-toolbox.git
