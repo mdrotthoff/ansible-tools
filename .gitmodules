@@ -10,3 +10,6 @@
 [submodule "bbrfkr.ansible-art"]
 	path = bbrfkr.ansible-art
 	url = https://github.com/bbrfkr/ansible-art.git
+[submodule "starboarder2001.ansible-docgen"]
+	path = starboarder2001.ansible-docgen
+	url = https://github.com/starboarder2001/ansible-docgen.git
