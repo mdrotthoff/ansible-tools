@@ -52,3 +52,6 @@
 [submodule "metacloud.molecule"]
 	path = metacloud.molecule
 	url = https://github.com/metacloud/molecule.git
+[submodule "openstack.ara"]
+	path = openstack.ara
+	url = git@github.com:mdrotthoff/openstack.ara.git
