@@ -49,3 +49,6 @@
 [submodule "bcoe.librarian-ansible"]
 	path = bcoe.librarian-ansible
 	url = https://github.com/bcoe/librarian-ansible.git
+[submodule "metacloud.molecule"]
+	path = metacloud.molecule
+	url = https://github.com/metacloud/molecule.git
