@@ -58,3 +58,6 @@
 [submodule "jlaska.pytest-ansible"]
 	path = jlaska.pytest-ansible
 	url = https://github.com/jlaska/pytest-ansible.git
+[submodule "mrjk.ansible-skel"]
+	path = mrjk.ansible-skel
+	url = https://github.com/mrjk/ansible-skel.git
