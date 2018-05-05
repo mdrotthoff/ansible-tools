@@ -28,3 +28,6 @@
 [submodule "ansible-semaphore.semaphore"]
 	path = ansible-semaphore.semaphore
 	url = https://github.com/ansible-semaphore/semaphore.git
+[submodule "nylas/ansible-test"]
+	path = nylas/ansible-test
+	url = https://github.com/nylas/ansible-test.git
