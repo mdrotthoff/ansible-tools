@@ -40,3 +40,6 @@
 [submodule "silpion.ansible-util"]
 	path = silpion.ansible-util
 	url = https://github.com/silpion/ansible-util.git
+[submodule "nickjj.ansigenome"]
+	path = nickjj.ansigenome
+	url = https://github.com/nickjj/ansigenome.git
