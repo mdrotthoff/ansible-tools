@@ -16,3 +16,6 @@
 [submodule "n0ts.ansible-human_log"]
 	path = n0ts.ansible-human_log
 	url = https://github.com/n0ts/ansible-human_log.git
+[submodule "iceburg-net.ansible-pcd"]
+	path = iceburg-net.ansible-pcd
+	url = https://github.com/iceburg-net/ansible-pcd.git
