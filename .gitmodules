@@ -37,3 +37,6 @@
 [submodule "dellis23.ansible-toolkit"]
 	path = dellis23.ansible-toolkit
 	url = https://github.com/dellis23/ansible-toolkit.git
+[submodule "silpion.ansible-util"]
+	path = silpion.ansible-util
+	url = https://github.com/silpion/ansible-util.git
