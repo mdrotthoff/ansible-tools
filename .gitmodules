@@ -1,0 +1,3 @@
+[submodule "ansible-cmdb"]
+	path = ansible-cmdb
+	url = https://github.com/fboender/ansible-cmdb.git
