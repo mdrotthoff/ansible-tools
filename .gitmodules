@@ -43,3 +43,6 @@
 [submodule "nickjj.ansigenome"]
 	path = nickjj.ansigenome
 	url = https://github.com/nickjj/ansigenome.git
+[submodule "drm.jinja2-lint"]
+	path = drm.jinja2-lint
+	url = https://github.com/drm/jinja2-lint.git
