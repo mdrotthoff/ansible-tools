@@ -1,3 +1,6 @@
 [submodule "ansible-cmdb"]
 	path = ansible-cmdb
 	url = https://github.com/fboender/ansible-cmdb.git
+[submodule "ansible-profile"]
+	path = ansible-profile
+	url = https://github.com/jlafon/ansible-profile.git
