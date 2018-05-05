@@ -4,3 +4,6 @@
 [submodule "jlafon.ansible-profile"]
 	path = jlafon.ansible-profile
 	url = https://github.com/jlafon/ansible-profile.git
+[submodule "volanja.ansible_spec"]
+	path = volanja.ansible_spec
+	url = https://github.com/volanja/ansible_spec.git
