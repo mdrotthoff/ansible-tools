@@ -22,3 +22,6 @@
 [submodule "willthames.ansible-review"]
 	path = willthames.ansible-review
 	url = https://github.com/willthames/ansible-review.git
+[submodule "mirskytech.ansible-role-manager"]
+	path = mirskytech.ansible-role-manager
+	url = https://github.com/mirskytech/ansible-role-manager.git
