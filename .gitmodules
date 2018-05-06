@@ -64,3 +64,6 @@
 [submodule "redhat-cop.infra-ansible"]
 	path = redhat-cop.infra-ansible
 	url = https://github.com/redhat-cop/infra-ansible.git
+[submodule "linux-system-roles.template"]
+	path = linux-system-roles.template
+	url = https://github.com/linux-system-roles/template.git
