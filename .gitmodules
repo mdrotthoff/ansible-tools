@@ -61,3 +61,6 @@
 [submodule "mrjk.ansible-skel"]
 	path = mrjk.ansible-skel
 	url = https://github.com/mrjk/ansible-skel.git
+[submodule "redhat-cop.infra-ansible"]
+	path = redhat-cop.infra-ansible
+	url = https://github.com/redhat-cop/infra-ansible.git
