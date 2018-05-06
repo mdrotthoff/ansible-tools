@@ -67,3 +67,6 @@
 [submodule "linux-system-roles.template"]
 	path = linux-system-roles.template
 	url = https://github.com/linux-system-roles/template.git
+[submodule "ansible.ansible-inventory-backport"]
+	path = ansible.ansible-inventory-backport
+	url = https://github.com/ansible/ansible-inventory-backport.git
