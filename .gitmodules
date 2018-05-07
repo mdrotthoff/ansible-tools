@@ -28,9 +28,6 @@
 [submodule "ansible-semaphore.semaphore"]
 	path = ansible-semaphore.semaphore
 	url = https://github.com/ansible-semaphore/semaphore.git
-[submodule "nylas/ansible-test"]
-	path = nylas/ansible-test
-	url = https://github.com/nylas/ansible-test.git
 [submodule "larsks.ansible-toolbox"]
 	path = larsks.ansible-toolbox
 	url = https://github.com/larsks/ansible-toolbox.git
@@ -79,3 +76,6 @@
 [submodule "lxhunter.ansible-filter-plugins"]
 	path = lxhunter.ansible-filter-plugins
 	url = https://github.com/lxhunter/ansible-filter-plugins.git
+[submodule "nylas.ansible-test"]
+	path = nylas.ansible-test
+	url = https://github.com/nylas/ansible-test.git
