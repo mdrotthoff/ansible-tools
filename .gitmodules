@@ -73,3 +73,6 @@
 [submodule "turkenh.ansible-interactive-tutorial"]
 	path = turkenh.ansible-interactive-tutorial
 	url = https://github.com/turkenh/ansible-interactive-tutorial.git
+[submodule "willthames.ansible-lint"]
+	path = willthames.ansible-lint
+	url = https://github.com/willthames/ansible-lint.git
