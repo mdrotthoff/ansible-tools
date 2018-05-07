@@ -70,3 +70,6 @@
 [submodule "ansible.ansible-inventory-backport"]
 	path = ansible.ansible-inventory-backport
 	url = https://github.com/ansible/ansible-inventory-backport.git
+[submodule "turkenh.ansible-interactive-tutorial"]
+	path = turkenh.ansible-interactive-tutorial
+	url = https://github.com/turkenh/ansible-interactive-tutorial.git
