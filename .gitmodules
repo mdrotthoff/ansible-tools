@@ -76,3 +76,6 @@
 [submodule "willthames.ansible-lint"]
 	path = willthames.ansible-lint
 	url = https://github.com/willthames/ansible-lint.git
+[submodule "lxhunter.ansible-filter-plugins"]
+	path = lxhunter.ansible-filter-plugins
+	url = https://github.com/lxhunter/ansible-filter-plugins.git
