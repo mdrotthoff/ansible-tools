@@ -79,3 +79,6 @@
 [submodule "nylas.ansible-test"]
 	path = nylas.ansible-test
 	url = https://github.com/nylas/ansible-test.git
+[submodule "nickjj.rolespec"]
+	path = nickjj.rolespec
+	url = https://github.com/nickjj/rolespec.git
