@@ -82,3 +82,12 @@
 [submodule "nickjj.rolespec"]
 	path = nickjj.rolespec
 	url = https://github.com/nickjj/rolespec.git
+[submodule "ansible.galaxy"]
+	path = ansible.galaxy
+	url = https://github.com/ansible/galaxy.git
+[submodule "ansible.ansible-jupyter-kernel"]
+	path = ansible.ansible-jupyter-kernel
+	url = https://github.com/ansible/ansible-jupyter-kernel.git
+[submodule "ansible.pytest-ansible"]
+	path = ansible.pytest-ansible
+	url = https://github.com/ansible/pytest-ansible.git
